@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tgesto156
+- 👀 I’m interested in software development, software architecture, authentication, object-oriented programming, web APIs, Java, and ReactJS.
+- 🌱 I’m currently learning Golang
+- 📫 Reach me at tiagogesto156@gmail.com
